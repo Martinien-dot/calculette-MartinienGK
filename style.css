@@ -20,6 +20,7 @@ body {
     border-radius: 30px;
     font-family: sans-serif;
     padding: 3vh;
+    padding-top: 13vh;
     height: auto;
     box-shadow: 0.5vh 0.5vh rgb(224, 7, 152);
 }
@@ -36,7 +37,7 @@ body {
     border-radius: 10vh;
     padding: 1vh;
     font-size: large;
-    box-shadow: inset;
+    border: 1px solid #0a0a0a;
 }
 
 .touches {
