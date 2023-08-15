@@ -44,8 +44,8 @@ body {
 
 .touches {
     display: grid;
-    grid-template-columns: repeat(5, 6vh);
-    grid-template-rows: repeat(5, 6vh);
+    grid-template-columns: repeat(5, 7vh);
+    grid-template-rows: repeat(5, 7vh);
     row-gap: 25px;
     column-gap: 8px;
 }
