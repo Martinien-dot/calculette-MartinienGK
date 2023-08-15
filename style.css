@@ -23,6 +23,7 @@ body {
     padding-top: 13vh;
     height: 95%;
     width: auto;
+    margin: 5px;
     box-shadow: 0.5vh 0.5vh rgb(224, 7, 152);
 }
 
