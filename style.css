@@ -43,9 +43,10 @@ body {
 
 .touches {
     display: grid;
-    grid-template-columns: repeat(5, 8vh);
-    grid-template-rows: repeat(5, 8vh);
-    grid-gap: 4px;
+    grid-template-columns: repeat(5, 10vh);
+    grid-template-rows: repeat(5, 10vh);
+    row-gap: 10px;
+    column-gap: 4px;
 }
 
 .bouton {
