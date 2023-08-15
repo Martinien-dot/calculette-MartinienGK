@@ -21,7 +21,7 @@ body {
     font-family: sans-serif;
     padding: 3vh;
     padding-top: 13vh;
-    height: auto;
+    height: 100%;
     width: 320px;
     box-shadow: 0.5vh 0.5vh rgb(224, 7, 152);
 }
