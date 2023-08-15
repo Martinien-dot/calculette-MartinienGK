@@ -34,7 +34,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    margin-bottom: 3vh;
+    margin-bottom: 4vh;
     margin-top: 1vh;
     border-radius: 10vh;
     padding: 1vh;
@@ -46,7 +46,7 @@ body {
     display: grid;
     grid-template-columns: repeat(5, 7vh);
     grid-template-rows: repeat(5, 7vh);
-    row-gap: 30px;
+    row-gap: 35px;
     column-gap: 8px;
 }
 
